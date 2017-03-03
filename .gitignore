@@ -1,3 +1,5 @@
+*.jar
+
 # Folders to ignore
 dist
 node_modules
